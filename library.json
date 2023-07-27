@@ -1,0 +1,25 @@
+{
+    "name": "hashmap.c",
+    "version": "1.0.0",
+    "description": "A hashmap implementation in pure C",
+    "keywords": "data structures,hashmaps,map",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/IshanDaga/platformio-hashmap.c"
+    },
+    "authors":
+    [
+      {
+        "name": "Ishan Daga",
+        "email": "ishan@golain.io"
+      },
+      {
+        "name": "Advait Chandorkar",
+        "email": "advait.chandorkar@quoppo.com"
+      }
+    ],
+    "frameworks": "*",
+    "platforms": "*",
+    "readme": "README.md"
+  }

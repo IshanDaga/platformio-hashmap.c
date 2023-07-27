@@ -1,3 +1,8 @@
+# platformIO-hashmap.c
+
+This is a fork of [tidwall/hashmap.c](github.com/tidwall/hashmap.c) for use with [PlatformIO](https://platformio.org/).
+
+No changes apart from the addition of a `platformio.ini` file and folder structure.
 # hashmap.c
 
 [Hash map](https://en.wikipedia.org/wiki/Hash_table) implementation in C. 
